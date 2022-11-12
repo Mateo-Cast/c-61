@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+#apps {
+    background-color: lightblue;
+}
+#game {
+    background-color: rgb(230, 173, 173);
+}
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
